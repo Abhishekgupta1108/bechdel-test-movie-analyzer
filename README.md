@@ -41,8 +41,7 @@ bechdel-test-movie-analyzer/
 │ └── bechdel_test.py
 │
 ├── README.md
-├── LICENSE
-└── requirements.txt
+
 
 ## ▶️ How to Use
 
